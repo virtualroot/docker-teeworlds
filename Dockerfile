@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch-slim
 MAINTAINER Alejandro Lazaro <virtualroot@gmail.com>
 
 ENV GAME_TYPE ctf
